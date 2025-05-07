@@ -1,0 +1,5 @@
+.venv
+.env
+example_docs
+output
+__pycache__
